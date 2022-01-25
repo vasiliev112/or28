@@ -1,0 +1,10 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MouseImitation\MouseImitation\bin\Debug\MouseImitation.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MouseImitation\MouseImitation\bin\Debug\MouseImitation.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MouseImitation\MouseImitation\bin\Debug\MouseImitation.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MouseImitation\MouseImitation\obj\Debug\MouseImitation.csproj.AssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MouseImitation\MouseImitation\obj\Debug\MouseImitation.Form1.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MouseImitation\MouseImitation\obj\Debug\MouseImitation.Properties.Resources.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MouseImitation\MouseImitation\obj\Debug\MouseImitation.csproj.GenerateResource.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MouseImitation\MouseImitation\obj\Debug\MouseImitation.csproj.CoreCompileInputs.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MouseImitation\MouseImitation\obj\Debug\MouseImitation.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MouseImitation\MouseImitation\obj\Debug\MouseImitation.pdb

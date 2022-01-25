@@ -1,0 +1,7 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Replacement\Replacement\obj\Debug\Replacement.csprojAssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Replacement\Replacement\obj\Debug\Replacement.csproj.CoreCompileInputs.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Replacement\Replacement\bin\Debug\Replacement.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Replacement\Replacement\bin\Debug\Replacement.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Replacement\Replacement\bin\Debug\Replacement.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Replacement\Replacement\obj\Debug\Replacement.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Replacement\Replacement\obj\Debug\Replacement.pdb

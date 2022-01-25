@@ -1,0 +1,6 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MOVE\MOVE\bin\Debug\MOVE.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MOVE\MOVE\bin\Debug\MOVE.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MOVE\MOVE\bin\Debug\MOVE.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MOVE\MOVE\obj\Debug\MOVE.csprojAssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MOVE\MOVE\obj\Debug\MOVE.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\MOVE\MOVE\obj\Debug\MOVE.pdb

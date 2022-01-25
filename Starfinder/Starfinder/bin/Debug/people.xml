@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfEnemy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enemy>
+    <name>Крыса111</name>
+	<cat>Небольшой</cat>
+    <init>10</init>
+    <kac>10</kac>
+    <eac>10</eac>
+    <maxhp>100</maxhp>
+    <curhp>100</curhp>
+    <numb>0</numb>
+    <sizeW>64</sizeW>
+    <sizeH>64</sizeH>
+  </Enemy>
+</ArrayOfEnemy>

@@ -1,0 +1,10 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Looting\Looting\bin\Debug\Looting.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Looting\Looting\bin\Debug\Looting.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Looting\Looting\bin\Debug\Looting.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Looting\Looting\obj\Debug\Looting.csproj.AssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Looting\Looting\obj\Debug\Looting.Properties.Resources.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Looting\Looting\obj\Debug\Looting.csproj.GenerateResource.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Looting\Looting\obj\Debug\Looting.csproj.CoreCompileInputs.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Looting\Looting\obj\Debug\Looting.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Looting\Looting\obj\Debug\Looting.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Looting\Looting\obj\Debug\Looting.Form1.resources

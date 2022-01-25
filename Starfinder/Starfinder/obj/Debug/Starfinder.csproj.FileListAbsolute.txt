@@ -1,0 +1,13 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\bin\Debug\Starfinder.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\bin\Debug\Starfinder.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\bin\Debug\Starfinder.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\obj\Debug\Starfinder.StarfinderMainForm.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\obj\Debug\Starfinder.Properties.Resources.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\obj\Debug\Starfinder.csproj.GenerateResource.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\obj\Debug\Starfinder.csproj.CoreCompileInputs.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\obj\Debug\Starfinder.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\obj\Debug\Starfinder.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\obj\Debug\Starfinder.MapsForm.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\obj\Debug\Starfinder.IconMapsForm.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\obj\Debug\Starfinder.csproj.AssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Starfinder\Starfinder\obj\Debug\Starfinder.ChoiceMap.resources

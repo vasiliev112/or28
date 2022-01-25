@@ -1,0 +1,6 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\mailTest\mailTest\bin\Debug\mailTest.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\mailTest\mailTest\bin\Debug\mailTest.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\mailTest\mailTest\bin\Debug\mailTest.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\mailTest\mailTest\obj\Debug\mailTest.csprojAssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\mailTest\mailTest\obj\Debug\mailTest.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\mailTest\mailTest\obj\Debug\mailTest.pdb

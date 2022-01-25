@@ -1,0 +1,10 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DroppingPass\DroppingPass\bin\Debug\DroppingPass.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DroppingPass\DroppingPass\bin\Debug\DroppingPass.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DroppingPass\DroppingPass\bin\Debug\DroppingPass.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DroppingPass\DroppingPass\obj\Debug\DroppingPass.csprojAssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DroppingPass\DroppingPass\obj\Debug\DroppingPass.Form1.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DroppingPass\DroppingPass\obj\Debug\DroppingPass.Properties.Resources.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DroppingPass\DroppingPass\obj\Debug\DroppingPass.csproj.GenerateResource.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DroppingPass\DroppingPass\obj\Debug\DroppingPass.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DroppingPass\DroppingPass\obj\Debug\DroppingPass.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DroppingPass\DroppingPass\obj\Debug\DroppingPass.csproj.CoreCompileInputs.cache

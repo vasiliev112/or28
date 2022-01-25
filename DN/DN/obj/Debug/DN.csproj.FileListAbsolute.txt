@@ -1,0 +1,10 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DN\DN\bin\Debug\DN.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DN\DN\bin\Debug\DN.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DN\DN\bin\Debug\DN.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DN\DN\obj\Debug\DN.csprojAssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DN\DN\obj\Debug\DN.DN.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DN\DN\obj\Debug\DN.Properties.Resources.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DN\DN\obj\Debug\DN.csproj.GenerateResource.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DN\DN\obj\Debug\DN.csproj.CoreCompileInputs.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DN\DN\obj\Debug\DN.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\DN\DN\obj\Debug\DN.pdb

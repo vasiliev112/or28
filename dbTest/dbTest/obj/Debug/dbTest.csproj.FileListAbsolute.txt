@@ -1,0 +1,6 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\dbTest\dbTest\bin\Debug\dbTest.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\dbTest\dbTest\bin\Debug\dbTest.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\dbTest\dbTest\bin\Debug\dbTest.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\dbTest\dbTest\obj\Debug\dbTest.csprojAssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\dbTest\dbTest\obj\Debug\dbTest.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\dbTest\dbTest\obj\Debug\dbTest.pdb

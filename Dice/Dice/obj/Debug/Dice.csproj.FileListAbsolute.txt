@@ -1,0 +1,10 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Dice\Dice\obj\Debug\Dice.Properties.Resources.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Dice\Dice\obj\Debug\Dice.csproj.GenerateResource.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Dice\Dice\obj\Debug\Dice.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Dice\Dice\obj\Debug\Dice.DnD.resources

@@ -1,0 +1,10 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Hexagonal\Hexagonal\bin\Debug\Hexagonal.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Hexagonal\Hexagonal\bin\Debug\Hexagonal.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Hexagonal\Hexagonal\bin\Debug\Hexagonal.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Hexagonal\Hexagonal\obj\Debug\Hexagonal.csproj.AssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Hexagonal\Hexagonal\obj\Debug\Hexagonal.Form1.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Hexagonal\Hexagonal\obj\Debug\Hexagonal.Properties.Resources.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Hexagonal\Hexagonal\obj\Debug\Hexagonal.csproj.GenerateResource.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Hexagonal\Hexagonal\obj\Debug\Hexagonal.csproj.CoreCompileInputs.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Hexagonal\Hexagonal\obj\Debug\Hexagonal.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Hexagonal\Hexagonal\obj\Debug\Hexagonal.pdb

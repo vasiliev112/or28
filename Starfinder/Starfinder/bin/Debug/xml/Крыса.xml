@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfEnemy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enemy>
+	<starship>false</starship>
+    <name>Крыса</name>
+	<cat>Огромный</cat>
+	<cr>3,0</cr>	
+	<exp>100</exp>
+	<init>3,0</init>	
+	<speed>1</speed> 
+    <kac>12</kac>
+    <eac>11</eac>
+	<fortitude>1</fortitude>
+	<reflex>2</reflex>
+	<will>3</will>
+    <maxhp>17</maxhp>
+  </Enemy>
+</ArrayOfEnemy>

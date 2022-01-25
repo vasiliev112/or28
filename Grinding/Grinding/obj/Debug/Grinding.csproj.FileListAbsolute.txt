@@ -1,0 +1,10 @@
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Grinding\Grinding\bin\Debug\Grinding.exe.config
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Grinding\Grinding\bin\Debug\Grinding.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Grinding\Grinding\bin\Debug\Grinding.pdb
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Grinding\Grinding\obj\Debug\Grinding.csproj.AssemblyReference.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Grinding\Grinding\obj\Debug\Grinding.Form1.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Grinding\Grinding\obj\Debug\Grinding.Properties.Resources.resources
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Grinding\Grinding\obj\Debug\Grinding.csproj.GenerateResource.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Grinding\Grinding\obj\Debug\Grinding.csproj.CoreCompileInputs.cache
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Grinding\Grinding\obj\Debug\Grinding.exe
+C:\Users\vasiliev.aa\Documents\Visual Studio 2019\Projects\Grinding\Grinding\obj\Debug\Grinding.pdb
